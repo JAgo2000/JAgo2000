@@ -7,5 +7,5 @@
 
 ## Looking for a job as a backend developer
 
-### programming languages: Go,Python,Javascript,PHP,Java,SQL,c,c++
+### Programming languages: Go, Python, Javascript, PHP, Java, SQL, c, c++
 

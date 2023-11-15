@@ -1,3 +1,4 @@
+![Codewars](https://github.r2v.ch/codewars?user=JAgo2000)
 ### Servus 👋
 
 #### Education:
@@ -7,5 +8,4 @@
 
 ## Looking for a job as a backend developer
 ### Programming languages: Go, Python, JavaScript, PHP, Java, SQL, c, c++
-![Codewars](https://github.r2v.ch/codewars?user=JAgo2000)
 

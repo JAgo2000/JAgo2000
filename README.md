@@ -2,10 +2,9 @@
 ### Servus 👋
 
 #### Education:
-#### Technical school for electrical engineering
-#### Kolleg in mechatronics (HTL-Matura)
 #### Currently studying information technology and electrical engineering at the TU-Wien
-
-## Looking for a job as a backend developer
+#### Kolleg in mechatronics (HTL-Matura)
+#### Technical school for electrical engineering
+## Looking for a job as a Software developer
 ### Programming languages: Go, Python, JavaScript, PHP, Java, SQL, c, c++
 
